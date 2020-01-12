@@ -1,0 +1,80 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lukilee5683.github.io" resolutions="1x" timestamp="1578838457332">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="original.css" crc="25940326" ref="original"/>
+    <file name="index.css" crc="315914186" ref="index"/>
+    <file name="about.css" crc="100952687" ref="about"/>
+    <file name="other.css" crc="3835468658" ref="other"/>
+    <file name="palette.css" crc="236040083" ref="palette"/>
+    <file name="contact.css" crc="4090104456" ref="contact"/>
+    <file name="project.css" crc="3776990085" ref="project"/>
+    <file name="gallery.css" crc="4265223314" ref="gallery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="museutils.js" crc="4216313831" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="museconfig.js" crc="474374037" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:about:gallery:original:project:palette"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:gallery:contact:other:original:project:palette"/>
+    <file name="require.js" crc="3951022091" ref="index:about:gallery:contact:other:original:project:palette"/>
+  </folder>
+  <folder name="images">
+    <file name="015-crop-u117.jpg" crc="160628697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:gallery:original:project:palette"/>
+    <file name="2-crop-u863.jpg" crc="4138400290" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u873-23.png" crc="4228314321" ref="about"/>
+    <file name="5-crop-u1132.jpg" crc="501841570" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="3-crop-u1258.jpg" crc="4239554770" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="49-1-crop-u1269.jpg" crc="4282884356" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="d5e820144c68bfca0dc9c2d2bcf986a5.png" crc="28176456" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pngtree-instagram-icon-png-image_3547981-crop-u2460.png" crc="3856056064" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="58485698e0bb315b0f7675a8.jpg" crc="4062525057" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="5-crop-u1301.jpg" crc="273108345" seo="true" ref="original">
+      <caption webpage="original" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4031562573" seo="true" ref="original">
+      <caption webpage="original" alt=""/>
+    </file>
+    <file name="49-1.jpg" crc="4109696871" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="49.jpg" crc="3803634128" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="1.png" crc="83343615" seo="true" ref="palette">
+      <caption webpage="palette" alt=""/>
+    </file>
+    <file name="3-1.jpg" crc="4151386642" seo="true" ref="palette">
+      <caption webpage="palette" alt=""/>
+    </file>
+    <file name="2.png" crc="361730799" seo="true" ref="palette">
+      <caption webpage="palette" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4002633070" seo="true" mt="1578838097354" redirect="true"/>
+  <file name="about.html" crc="515858835" seo="true" mt="1578836218384" redirect="true"/>
+  <file name="gallery.html" crc="458130984" seo="true" mt="1578836290254" redirect="true"/>
+  <file name="contact.html" crc="407189730" seo="true" mt="1578837632306" redirect="true"/>
+  <file name="other.html" crc="94099675" seo="true" mt="1578830655859" redirect="false"/>
+  <file name="original.html" crc="10834509" seo="true" mt="1578836310850" redirect="true"/>
+  <file name="project.html" crc="3790150601" seo="true" mt="1578836478182" redirect="true"/>
+  <file name="palette.html" crc="4014912282" seo="true" mt="1578836625501" redirect="true"/>
+</manifest>
